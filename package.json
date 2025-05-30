@@ -1,0 +1,17 @@
+{
+  "name": "chaicode-backend",
+  "version": "1.0.0",
+  "description": "Backend development followed from CHAI & CODE YT",
+  "keywords": [
+    "vaishnav",
+    "javascipt",
+    "vg"
+  ],
+  "license": "ISC",
+  "author": "Vaishnav Gupta",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
